@@ -4,6 +4,17 @@
     
 }
 
+<<<<<<< HEAD
 a{
     text-decoration: none;
+=======
+a {
+    text-decoration: none;
+    color: fuchsia;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+>>>>>>> origin/main
 }
