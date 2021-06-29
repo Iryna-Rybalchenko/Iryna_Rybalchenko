@@ -3,3 +3,13 @@
     color: gray;
     
 }
+
+a {
+    text-decoration: none;
+    color: fuchsia;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
